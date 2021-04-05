@@ -1,0 +1,34 @@
+section {
+background-color:seashell;
+}
+
+header nav { 
+float:right;
+}
+header {
+padding-top:20px;
+padding-bottom:20px;    
+}
+header nav a {
+padding-left: 20px;    
+}
+
+footer {text-align:center;
+background-color: rgb(156, 107, 141);
+}
+.here {
+    width: 100%;
+}
+section table{
+ float: left;  
+}
+section img{
+    width: 50%;
+    display: inline-block;
+}
+.table-section{
+    padding-left: 20px;
+}
+table td {
+    border: 1px solid; color: #000;
+}
